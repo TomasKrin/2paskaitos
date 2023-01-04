@@ -7,7 +7,7 @@ import Hero from './components/Hero';
 function App() {
   return (
     <div className='container'>
-      <Hero title='Title'subtitleOne='Some about text'subtitleTwo='in two lines'>
+      <Hero title='Title'subtitleOne='Some about text'subtitleTwo='in two lines' img='https://w.wallhaven.cc/full/qz/wallhaven-qzdqvr.jpg'>
         <Button color='teal'>Button</Button>
       </Hero>
       <Content
